@@ -17,7 +17,7 @@
 
 # One line Installation
 ```
-$ git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py && ./run.py
+git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py && ./run.py
 ```
 
 # Social Media
