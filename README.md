@@ -3,9 +3,10 @@
 
 # What is this and how this works?                              
 ❖ This is simple tool that uses api to make easy youtube searches for free.                            
-❖ This api is **free** for all users.                 
+❖ This api is **FREE** for all users.                 
 ❖ The amount of requests is **Unlimited**                                       
-❖ And the **Rate Limit** is **30 requests per minute**                        
+❖ And the **Rate Limit** is **30 requests per minute**                                  
+❖ Also you can do more with this API!                       
 
 **NOTE!**                   
 Before using this tool, you need to get your **X-RapidAPI-Key**.                         
