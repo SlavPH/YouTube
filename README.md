@@ -34,7 +34,7 @@ The API used in this tool: [Simple YouTube Search](https://rapidapi.com/Snowflak
 
 # One line Installation
 ```
-git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py && ./run.py
+git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py
 ```
 # Access Error
 **!**  If Api is not working in your country, you can run this tool with **TOR**                             
