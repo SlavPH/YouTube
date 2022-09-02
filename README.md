@@ -13,7 +13,7 @@ Before using this tool, you need to get your **X-RapidAPI-Key**.
 And also you need to **Subscribe** to this API to use it!                             
 
 **Links!**                          
-Get your **X-RapidAPI-Key**: [RapidAPI](https://rapidapi.com)                      
+Get your **X-RapidAPI-Key** by signing up: [RapidAPI](https://rapidapi.com)                      
 Subscribe to API: [Subscribe](https://rapidapi.com/Snowflake107/api/simple-youtube-search/pricing)                            
 The API used in this tool: [Simple YouTube Search](https://rapidapi.com/Snowflake107/api/simple-youtube-search)                          
 
