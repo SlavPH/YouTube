@@ -2,18 +2,19 @@
 >Simple YouTube search tool with Python!                   
 
 # What is this and how this works?                              
-This is simple tool that uses api to make easy youtube searches for free.                            
-This api is **free** for all users.                 
-The amount of requests is **Unlimited**                                       
-And the **Rate Limit** is **30 requests per minute**                        
+❖ This is simple tool that uses api to make easy youtube searches for free.                            
+❖ This api is **free** for all users.                 
+❖ The amount of requests is **Unlimited**                                       
+❖ And the **Rate Limit** is **30 requests per minute**                        
+
 **NOTE!**                   
-Before using this tool, you need to get your **X-RapidAPI-Key**.
-And also you need to **Subscribe** this API to use it! 
+Before using this tool, you need to get your **X-RapidAPI-Key**.                         
+And also you need to **Subscribe** this API to use it!                             
 
 **Links!**
-Get your **X-RapidAPI-Key**: [RapidAPI](https://rapidapi.com)
-Subscribe to API: [Subscribe](https://rapidapi.com/Snowflake107/api/simple-youtube-search/pricing)
-The API used in this tool: [Simple YouTube Search](https://rapidapi.com/Snowflake107/api/simple-youtube-search)
+Get your **X-RapidAPI-Key**: [RapidAPI](https://rapidapi.com)                      
+Subscribe to API: [Subscribe](https://rapidapi.com/Snowflake107/api/simple-youtube-search/pricing)                            
+The API used in this tool: [Simple YouTube Search](https://rapidapi.com/Snowflake107/api/simple-youtube-search)                          
 
 
 # Requirements                      
@@ -43,7 +44,7 @@ proxychains ./run.py
 ```
 
 # Social Media
-[Instagram](https://instagram.com/theslavph)                                                
-[Telegram](https://telegram.me/theslavph)
+❖ [Instagram](https://instagram.com/theslavph)                                                
+❖ [Telegram](https://telegram.me/theslavph)
 
 > Thanks 
