@@ -1,8 +1,23 @@
 # YouTube
->Simple YouTube search tool with Python!                                                  
+>Simple YouTube search tool with Python!                   
+
+# What is this and how this works?                              
+This is simple tool that uses api to make easy youtube searches for free.                            
+This api is **free** for all users.                 
+The amount of requests is **Unlimited**                                       
+And the **Rate Limit** is **30 requests per minute**                        
+**NOTE!**                   
+Before using this tool, you need to get your **X-RapidAPI-Key**.
+And also you need to **Subscribe** this API to use it! 
+
+**Links!**
+Get your **X-RapidAPI-Key**: [RapidAPI](https://rapidapi.com)
+Subscribe to API: [Subscribe](https://rapidapi.com/Snowflake107/api/simple-youtube-search/pricing)
+The API used in this tool: [Simple YouTube Search](https://rapidapi.com/Snowflake107/api/simple-youtube-search)
+
 
 # Requirements                      
-**[1]** You need **X-RapidAPI-Key**. Get in from [RapidAPI](https://rapidapi.com)                                                              
+**[1]** You need **X-RapidAPI-Key**.                                                             
 **[2]** You need **Python** installed in your machine                             
 
 # Config
