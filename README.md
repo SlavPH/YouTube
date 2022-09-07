@@ -40,7 +40,7 @@ git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py
 ```
 # Access Error
 **!**  If Api is not working in your country, you can run this tool with **TOR**                             
-**!**  Install **Proxychains** and config it!
+**!**  Install **Proxychains** and config it!                                    
 **!**  Then use this tool with proxychains:                            
 ```
 proxychains ./run.py
