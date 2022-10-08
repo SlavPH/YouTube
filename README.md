@@ -46,8 +46,5 @@ git clone https://github.com/SlavPH/YouTube && cd YouTube && chmod +x run.py
 proxychains ./run.py
 ```
 
-# Social Media
-❖ [Instagram](https://instagram.com/theslavph)                                                
-❖ [Telegram](https://telegram.me/theslavph)
 
 > Thanks 
